@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Henrique e tenho 19 anos,
+- 👀 sou técnico em desenvolvimento Web e estou cursando o 4º Semestre de ciência da computação.
+- 🌱 Atualmente tenho focado meu interesse em apliar as âreas de conhecimento em que possuo domínio.
+- 💞️ Sou Desenvolvedor de Sistemas na AMEnergia à 1 ano e 8 meses.
+- 📫 Para entrar em contato, estou disponível no email: henriquethomazsilva8@gmail.com ou no WhatsApp: (15) 99789-2053.
