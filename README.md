@@ -3,7 +3,7 @@
 - 👋 Olá, me chamo Henrique e tenho 19 anos,
 - 👀 sou técnico em desenvolvimento Web e estou cursando o 4º Semestre de ciência da computação.
 - 🌱 Atualmente tenho focado meu interesse em apliar as âreas de conhecimento em que possuo domínio.
-- 💞️ Sou Desenvolvedor de Sistemas na AMEnergia à 1 ano e 8 meses.
+- 💞️ Analista de Sistemas Trainee na SPLICE à 3 meses.
 - 📫 Para entrar em contato, estou disponível no email: henriquethomazsilva8@gmail.com ou no WhatsApp: (15) 99789-2053.
 
 # Histórico Acadêmico
@@ -15,7 +15,8 @@
 
 - :classical_building: Analista de Qualidade - Vivo (Tercerizada)
 - :classical_building: Estágiario - INSS
-- :classical_building: Desenvolvedor de Sistemas da Informação - AMEnergia (Atual)
+- :classical_building: Desenvolvedor de Sistemas da Informação - AMEnergia (1 ano e 9 meses)
+- :classical_building: Analista de Sistemas Trainee - Splice (3 meses)
 
 # Redes Sociais
 
