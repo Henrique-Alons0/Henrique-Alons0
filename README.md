@@ -16,7 +16,8 @@
 - :classical_building: Analista de Qualidade - Vivo (Tercerizada)
 - :classical_building: Estágiario - INSS
 - :classical_building: Desenvolvedor de Sistemas da Informação - AMEnergia (1 ano e 9 meses)
-- :classical_building: Analista de Sistemas Trainee - Splice (3 meses)
+- :classical_building: Analista de Sistemas Trainee - Splice (8 meses)
+- :classical_building: Desenvolvedor Full Stack Junior - Routeasy (3 meses)
 
 # Redes Sociais
 
