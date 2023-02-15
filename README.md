@@ -23,9 +23,9 @@
 
 # Redes Sociais
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Henrique-Alons0)](https://github.com/Henrique-Alons0)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-alonso-911849181/)](https://www.linkedin.com/in/henrique-alonso-911849181/)
-[![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/henrique.thomaz.735)](https://www.facebook.com/henrique.thomaz.735)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&height=100&link=https://github.com/Henrique-Alons0)](https://github.com/Henrique-Alons0)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&height=100&link=https://www.linkedin.com/in/henrique-alonso-911849181/)](https://www.linkedin.com/in/henrique-alonso-911849181/)
+[![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&height=100&link=https://www.facebook.com/henrique.thomaz.735)](https://www.facebook.com/henrique.thomaz.735)
 
 # Habilidades e Conhecimentos
 
