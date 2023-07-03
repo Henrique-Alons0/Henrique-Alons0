@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=0099F3&width=880&lines=+Hi%2C+my+name+is+Henrique+and+I'm+21+years+old.;Lately+I've+been+working+a+lot+with+Node.JS%2C+APIs+and+Microservices;In+a+year+I+will+be+a+computer+scientist.;I+work+as+a+Full+Stack+Systems+Developer.)](https://git.io/typing-svg)
 
 - 👋 Olá, me chamo Henrique e tenho 21 anos,
-- 👀 sou técnico em desenvolvimento Web e estou cursando o 7º Semestre de ciência da computação.
+- 👀 sou técnico em desenvolvimento Web e estou cursando o último Semestre de ciência da computação.
 - 🌱 Atualmente tenho focado meu interesse em apliar as âreas de conhecimento em que possuo domínio.
 - 💞️ Desenvolvedor Full Stack na 📍Routeasy desde Abril de 2022.
 - 📫 Para entrar em contato, estou disponível no email: henriquethomazsilva8@gmail.com ou no WhatsApp: (15) 99789-2053.
@@ -19,6 +19,7 @@
 - :classical_building: Estágiario - INSS
 - :classical_building: Desenvolvedor de Sistemas da Informação - AMEnergia (1 ano e 9 meses)
 - :classical_building: Analista de Sistemas Trainee - Splice (8 meses)
+- :classical_building: Sócio Programador Full Stack - Splice (7 meses)
 - :classical_building: Desenvolvedor Full Stack Junior - Routeasy (Desde Abril de 2022)
 
 # Redes Sociais
