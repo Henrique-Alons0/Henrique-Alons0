@@ -20,6 +20,7 @@
 - :classical_building: Analista de Sistemas Trainee - Splice (8 meses)
 - :classical_building: Sócio Programador Full Stack - Splice (7 meses)
 - :classical_building: Desenvolvedor Full Stack Junior - Routeasy (1 ano e 5 meses)
+- :classical_building: Analista de Desenvolvimento || - Solve4ME (Desde Outubro/2023)
 
 # Redes Sociais
 
