@@ -10,7 +10,7 @@
 # Histórico Acadêmico
 
 - 📚  Técnico em Informática para Internet  - Etec Elias Miguel Junior (De 2017 a  2019)
-- 📚  Bacharelado em Ciência da Computação - Universidade Paulista (De 2019 a 2024)
+- 📚  Bacharelado em Ciência da Computação - Universidade Paulista (De 2019 a 20223)
 
 # Histórico Profissional
 
@@ -20,7 +20,9 @@
 - :classical_building: Analista de Sistemas Trainee - Splice (8 meses)
 - :classical_building: Sócio Programador Full Stack - Splice (7 meses)
 - :classical_building: Desenvolvedor Full Stack Junior - Routeasy (1 ano e 5 meses)
-- :classical_building: Analista de Desenvolvimento || - Solve4ME (Desde Outubro/2023)
+- :classical_building: Sócio CTO - Qindo
+- :classical_building: Analista de Desenvolvimento || - Solve4ME
+- :classical_building: Engenheiro de Software Pleno || - EpiOuSion
 
 # Redes Sociais
 
