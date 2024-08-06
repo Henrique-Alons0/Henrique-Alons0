@@ -1,6 +1,6 @@
 # Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&pause=1000&color=0099F3&width=880&lines=+Hi%2C+my+name+is+Henrique+and+I'm+21+years+old.;Lately+I've+been+working+a+lot+with+Node.JS%2C+APIs+and+Microservices;In+a+year+I+will+be+a+computer+scientist.;I+work+as+a+Full+Stack+Systems+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;Hello%2C+my+name+is+Henrique+and+I+am+22+years+old.+;I+have+worked+in+the+IT+area+for+approximately+six+years.+;Lately+I'm+working+with+Laravel%2C+Node.js%2C+Nest%2C+React+Native+and+other+technologies.)](https://git.io/typing-svg)
 
 - 👋 Olá, me chamo Henrique e tenho 22 anos,
 - 👀 sou Ciêntista da Computação e Técnico em Desenvolvimento de Sistemas pela ETEC.
