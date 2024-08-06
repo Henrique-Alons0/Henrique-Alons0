@@ -23,6 +23,7 @@
 - :classical_building: Sócio CTO - Qindo
 - :classical_building: Analista de Desenvolvimento || - Solve4ME
 - :classical_building: Engenheiro de Software Pleno || - EpiOuSion
+- :classical_building: Desenvolvedor Full Stack Pleno || - ArthWind
 
 # Redes Sociais
 
