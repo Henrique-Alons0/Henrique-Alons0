@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;Hello%2C+my+name+is+Henrique+and+I+am+22+years+old.+;I+have+worked+in+the+IT+area+for+approximately+six+years.+;Lately+I'm+working+with+Laravel%2C+Node.js%2C+Nest%2C+React+Native+and+other+technologies.)](https://git.io/typing-svg)
 
-- 👋 Olá, me chamo Henrique e tenho 23 anos,
+- 👋 Olá, me chamo Henrique e tenho 25 anos,
 - 👀 sou Ciêntista da Computação e Técnico em Desenvolvimento de Sistemas pela ETEC.
 - 🌱 Atualmente tenho focado meu interesse em apliar as âreas de conhecimento em que possuo domínio.
 - 📫 Para entrar em contato, estou disponível no email: henriquetcalonso@gmail.com ou no WhatsApp: (15) 99789-2053.
